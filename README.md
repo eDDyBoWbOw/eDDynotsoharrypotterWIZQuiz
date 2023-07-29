@@ -12,7 +12,7 @@ eDDynotsoharrypotterWIZQuiz
 <img src=""/>
 
 # Deployed Page
-<a href="">Deployed Link</a> 
+<a href="https://eddybowbow.github.io/eDDynotsoharrypotterWIZQuiz/">Deployed Link</a> 
  
 # Contact
 <a href="https://github.com/eDDyBoWbOw">Github:Edward T Caldwell</a><br>
